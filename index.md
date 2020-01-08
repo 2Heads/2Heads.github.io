@@ -394,20 +394,20 @@ There are buttons on the control tablet to control each area within the innovati
 
 > **Issue 2:** xxx
 
-# 5. Presenter tablet
+# 6. Presenter tablet
 The space is equipped with a combination of smart light switches and Philips Hue smart bulbs.
 The switches control lighting in each zone of the innovation suite (living room, bedroom, kitchen, dining room).
 
-## 5.1 Clear data 
+## 6.1 Clear data 
 This button resets the session so that all viewer data resets to zero.
 
 
-## 5.2 Power off
+## 6.2 Power off
 This button starts the shutdown pocedure on all mini PCs.
 
 This should be used at the end of the day, when no more sessions are planned.
 
-## 5.3 Power on
+## 6.3 Power on
 This button resets the smart switches, which triggers a startup sequence on all the mini PCs.
 
 This function should be used at the start of the day to turn all the Mini PCs on and make the innovation suite ready for groups to use.
